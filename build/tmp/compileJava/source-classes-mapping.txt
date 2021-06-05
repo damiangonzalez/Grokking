@@ -1,2 +1,13 @@
 Calculator.java
  Calculator
+HackerRank/SockMerchant.java
+ Result
+ Solution
+Educative/SlidingWindow.java
+ MinimumWindowSubstring
+ ReplacingOnes
+ StringPermutation
+ WordConcatenation
+Educative/TwoPointers.java
+ PairWithTargetSum
+ TwoPointersMain
